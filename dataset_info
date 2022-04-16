@@ -1,0 +1,9 @@
+%DATASET INFO
+The proposed technique has been validated on benchmark ETH, INRIA, and Central pedestrian Crossing Sequence
+Dataset. ETH dataset contains data recorded with a resolution
+of 640 x 480 and a frame rate of 13-14 fps while the
+INRIA dataset is also having original high definition images
+along with normalized 64 x 128-pixel format with their corresponding annotation files. The central pedestrian crossing
+sequence includes three video frame sequences of resolution
+640 x 40 with bounding box annotations present for every
+fourth frame.
