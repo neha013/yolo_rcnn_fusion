@@ -22,3 +22,5 @@ the proposed work has been evaluated and assessed on three
 publicly available datasets: ETH, INRIA, and Central Pedestrian
 crossing sequence, which exhibits superior pedestrian detection
 performance over the existing state-of-the-art.
+
+This is python implementation of the paper: https://ieeexplore.ieee.org/document/9753544
