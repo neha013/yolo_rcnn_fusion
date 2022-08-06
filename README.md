@@ -1,6 +1,6 @@
 # yolo_rcnn_fusion
 
-Pedestrian detection is one of the important applications of computer vision with key contributions in various
+***Pedestrian detection*** is one of the important applications of computer vision with key contributions in various
 fields of human life such as intelligent vehicles, surveillance,
 and advanced robotics. Considerable research has taken place
 in protecting vulnerable road users particularly pedestrians due
@@ -17,10 +17,10 @@ for precise bounding boxes but low recall value while the other
 one is a family of two-stage detectors, giving a high recall value
 but an imprecise number of bounding boxes. Adaptive fusion
 of two generates enhanced detection accuracy and decreases the
-overall Log Average Miss Rate (LAMR). The performance of
+overall *Log Average Miss Rate (LAMR)*. The performance of
 the proposed work has been evaluated and assessed on three
-publicly available datasets: ETH, INRIA, and Central Pedestrian
-crossing sequence, which exhibits superior pedestrian detection
+publicly available datasets: *ETH*, *INRIA*, and *Central Pedestrian
+crossing sequence*, which exhibits superior pedestrian detection
 performance over the existing state-of-the-art.
 
-This is python implementation of the paper: https://ieeexplore.ieee.org/document/9753544
+This is python implementation of the paper: [A Deep Unified Pedestrian Detection Framework](https://ieeexplore.ieee.org/document/9753544)
