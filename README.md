@@ -23,4 +23,6 @@ publicly available datasets: *ETH*, *INRIA*, and *Central Pedestrian
 crossing sequence*, which exhibits superior pedestrian detection
 performance over the existing state-of-the-art.
 
+![Capture](https://github.com/neha013/yolo_rcnn_fusion/assets/41139808/41825e7e-11df-4366-b2cd-316b2123809a)
+
 This is python implementation of the paper: [A Deep Unified Pedestrian Detection Framework](https://ieeexplore.ieee.org/document/9753544)
